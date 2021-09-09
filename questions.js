@@ -1,82 +1,58 @@
 let questions = [
     {
-      text: `What is the first book of the Old Testament?
-        A. Leviticus
-        B. Numbers
-        C. Genesis
-        D. Exodus`,
-      correctAnswer: "C"
+      text: `A goblin approaches you, asks you for money, What do you do?
+        A. Give him a nickel
+        B. Nickelback
+        C. Slice him in half
+        D. Run away`,
+      correctAnswer: "A"
     },
     {
-      text: `How would one say goodbye in Spanish?
-        A. Hola
-        B. Au Revoir
-        C. Salir
+      text: `A dragon is chasing you, Your partner says to let him go after he is injured, What do you do?
+        A. Never gonna give him up, Never gonna let him down
+        B. Stay with him until the end
+        C. Decapitate him for an easy death.
         D. Adiós`,
       correctAnswer: "D"
     },
     {
-      text: `What is the French word for 'hat'?
-        A.  Casque
-        B. Chapeau
-        C. Bonnet
-        D. Écharpe`,
+      text: `The goblin you helped out earlier finds you as you get chased by the dragon and he has a golden sword, What do you do?
+        A. Slice him in half and take it
+        B. Beg him to save you
+        C. "What comes around goes around" -Shakespeare maybe
+        D. Use him as bait`,
+      correctAnswer: "A"
+    },
+    {
+      text: `You leveled up 10 times! turns out the goblin was really high level but really old. What do you do now with the dragon?
+        A. Try to Avenge your fallen comrade
+        B. Let's talk about love -Celine dion
+        C. Go into the nearby village and try to hide
+        D. Accept defeat`,
       correctAnswer: "B"
     },
     {
-      text: `The New York Times slogan is, 'All the News That's Fit to...';
-        A. Digest
-        B. Look
-        C. Read
-        D. Print`,
-      correctAnswer: "D"
-    },
-    {
-      text: `Which restaurant's mascot is a clown?
-        A. Chick-Fil-A
-        B. Sonic
-        C. McDonald's
+      text: `Turns out the dragon is just a really crazy ex who's still not over you, What do you tell the dragon?
+        A. You the best I ever had -Drake
+        B. You're going to kill me and then what? So we really ending the decade without each other?
+        C. You've killed my comrade, I will avenge her!
         D. Whataburger`,
       correctAnswer: "C"
     },
     {
-      text: `Which of the following is the IATA code for Manchester Airport?
-        A. MAN
-        B. EGLL
-        C. LHR
-        D. EGCC`,
+      text: `You run into the village to hide and the dragon shoots fire at a little girl, what do you do?
+        A. Sing "That girl is on fire~~" - Alicia Keys
+        B. Formulate a plan to defeat the dragon
+        C. Go on the roof of the tallest and slice the dragon
+        D. Admit defeat`,
       correctAnswer: "A"
     },
     {
-      text: `If you are caught 'Goldbricking', what are you doing wrong?
-        A. Stealing
-        B. Cheating
-        C. Slacking
-        D. Smoking`,
+      text: `You've defeated the dragon, credits roll. You've won! What do you do now?
+        A. On to the next game
+        B. Time to watch my show
+        C. Write a review about it
+        D. Replay the game`,
       correctAnswer: "C"
     },
-    {
-      text: `Earth is located in which galaxy?
-        A. The Black Hole
-        B. The Milky Way Galaxy
-        C. The Mars Galaxy
-        D. The Galaxy Note`,
-      correctAnswer: "B"
-    },
-    {
-      text: `What are Panama hats made out of?
-        A. Silk
-        B. Hemp
-        C. Flax
-        D. Straw`,
-      correctAnswer: "D"
-    },
-    {
-      text: `What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?
-        A. Jet
-        B. Space Capsule
-        C. Helicopter
-        D. Stealth Blimp`,
-      correctAnswer: "C"
-    }
   ]
