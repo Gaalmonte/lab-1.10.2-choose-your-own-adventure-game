@@ -71,3 +71,5 @@ if(fourthAnswer =='C'){
 if(fourthAnswer =='D'){
     alert("'Oh yeah that sounds good' the dragon says, then you guys go out to eat together and leave everything else in the past, The End")
 }}
+
+//I really made this more lengthy than it had to be, could have taken shortcuts and way simpler solutions but I felt I was already to deep into it so ://
